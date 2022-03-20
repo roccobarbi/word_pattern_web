@@ -1,0 +1,12 @@
+li {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+  text-align: left;
+}
+
+.results-title {
+  font-weight: bold;
+  font-size: larger;
+  text-transform: uppercase;
+}
